@@ -162,5 +162,6 @@ function checkIfValid(target) {
                 }
             break;
         // case 'bishop'
+                // add valid moves
     }
 }
